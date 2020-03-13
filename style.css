@@ -1,0 +1,21 @@
+body {
+  background-color: #edffea;
+  border-style: none;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width:  5%;
+
+}
+
+h1{
+  color: #66BFBF;
+  letter-spacing: 3px;
+}
+h3{
+  color: #66BFBF;
+}
